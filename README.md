@@ -9,7 +9,7 @@
 
 -   🌱 I’m currently learning **Laravel, NodeJs, MongoDB**
 
--   👯 I’m looking to collaborate on **Credifarma**
+-   👯 I’m looking to collaborate on **WiFolk**
 
 -   👨‍💻 All of my projects are available at [https://github.com/JoelMedrano](https://github.com/JoelMedrano)
 
